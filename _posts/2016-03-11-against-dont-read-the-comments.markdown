@@ -5,7 +5,7 @@ date: '2016-03-11 10:36:00'
 tags:
 - comments
 - safety
-excerpt: Here’s a spoiler: **Preventing abuse online requires the people running a site or an app to invest time, effort and attention into protecting their community.** That’s the bottom line.
+excerpt: Here’s a spoiler&#58; **Preventing abuse online requires the people running a site or an app to invest time, effort and attention into protecting their community.** That’s the bottom line.
 ---
 
 
